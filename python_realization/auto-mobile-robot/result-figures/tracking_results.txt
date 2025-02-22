@@ -1,0 +1,21 @@
+Map ID: f20c88a8, Controller: PID, Average Tracking Error: 0.0278, Cumulative Error: 14.1862, Total Steps: 510
+Map ID: f20c88a8, Controller: Pure Pursuit, Average Tracking Error: 0.0727, Cumulative Error: 23.0530, Total Steps: 317
+Map ID: f20c88a8, Controller: PID, Average Tracking Error: 0.0468, Cumulative Error: 34.9331, Total Steps: 746
+Map ID: 871a3cc6, Controller: PID, Algorithm: A* Search, Average Tracking Error: 0.0289, Cumulative Error: 14.6668, Total Steps: 508
+Map ID: 871a3cc6, Controller: Pure Pursuit, Algorithm: A* Search, Average Tracking Error: 0.0764, Cumulative Error: 24.3567, Total Steps: 319
+Map ID: 871a3cc6, Controller: PID, Algorithm: RRT, Average Tracking Error: 0.2344, Cumulative Error: 109.7103, Total Steps: 468
+Map ID: 871a3cc6, Controller: Pure Pursuit, Algorithm: RRT, Average Tracking Error: 0.3559, Cumulative Error: 171.8850, Total Steps: 483
+Map ID: 871a3cc6, Controller: PID, Algorithm: ACO, Average Tracking Error: 0.0436, Cumulative Error: 32.0340, Total Steps: 734
+Map ID: 871a3cc6, Controller: Pure Pursuit, Algorithm: ACO, Average Tracking Error: 0.1435, Cumulative Error: 78.1857, Total Steps: 545
+Map ID: 9683ac4b, Controller: PID, Algorithm: A* Search, Average Tracking Error: 0.0270, Cumulative Error: 16.3171, Total Steps: 604
+Map ID: 9683ac4b, Controller: Pure Pursuit, Algorithm: A* Search, Average Tracking Error: 0.0657, Cumulative Error: 26.6701, Total Steps: 406
+Map ID: 9683ac4b, Controller: PID, Algorithm: RRT, Average Tracking Error: 0.0434, Cumulative Error: 34.9158, Total Steps: 804
+Map ID: 9683ac4b, Controller: Pure Pursuit, Algorithm: RRT, Average Tracking Error: 0.1516, Cumulative Error: 100.8086, Total Steps: 665
+Map ID: 9683ac4b, Controller: PID, Algorithm: ACO, Average Tracking Error: 0.0467, Cumulative Error: 43.6799, Total Steps: 936
+Map ID: 9683ac4b, Controller: Pure Pursuit, Algorithm: ACO, Average Tracking Error: 0.1595, Cumulative Error: 101.1452, Total Steps: 634
+Map ID: 2da87f94, Controller: PID, Algorithm: A* Search, Average Tracking Error: 0.0348, Cumulative Error: 41.0061, Total Steps: 1180
+Map ID: None, Controller: PID, Algorithm: A* Search, Average Tracking Error: 0.2917, Cumulative Error: 103.8459, Total Steps: 356
+Map ID: a3f10f80, Controller: Pure Pursuit, Algorithm: A* Search, Average Tracking Error: 0.0857, Cumulative Error: 76.2065, Total Steps: 889
+Map ID: 41d97b3e, Controller: PID, Algorithm: A* Search, Average Tracking Error: 0.0280, Cumulative Error: 15.0188, Total Steps: 536
+Map ID: 41d97b3e, Controller: Pure Pursuit, Algorithm: ACO, Average Tracking Error: 0.1286, Cumulative Error: 56.3462, Total Steps: 438
+Map ID: 41d97b3e, Controller: PID, Algorithm: RRT, Average Tracking Error: 0.2456, Cumulative Error: 127.2138, Total Steps: 518
