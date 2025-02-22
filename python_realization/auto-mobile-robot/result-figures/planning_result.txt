@@ -1,0 +1,61 @@
+Map ID: f499b01c, Algorithm: A* Search, Path Quality: 27.41, Planning Efficiency: 0.0000 seconds
+Map ID: f499b01c, Algorithm: ACO, Path Quality: 46.95, Planning Efficiency: 8.4378 seconds
+Map ID: f499b01c, Algorithm: RRT, Path Quality: 40.69, Planning Efficiency: 0.0317 seconds
+Map ID: 4d373e85, Algorithm: A* Search, Path Quality: 42.76, Planning Efficiency: 0.0156 seconds
+Map ID: 4d373e85, Algorithm: RRT, Path Quality: 57.84, Planning Efficiency: 0.1100 seconds
+Map ID: 4d373e85, Algorithm: ACO, Path Quality: 67.76, Planning Efficiency: 19.5830 seconds
+Map ID: f0eafedd, Algorithm: A* Search, Path Quality: 72.49, Planning Efficiency: 0.0090 seconds
+Map ID: 088a987e, Algorithm: A* Search, Path Quality: 83.54, Planning Efficiency: 0.0162 seconds
+Map ID: ff509cee, Algorithm: A* Search, Path Quality: 30.59, Planning Efficiency: 0.0000 seconds
+Map ID: ff509cee, Algorithm: RRT, Path Quality: 46.42, Planning Efficiency: 0.1580 seconds
+Map ID: ff509cee, Algorithm: ACO, Path Quality: 40.25, Planning Efficiency: 9.9925 seconds
+Map ID: f3df6787, Algorithm: A* Search, Path Quality: 37.72, Planning Efficiency: 0.0156 seconds
+Map ID: f3df6787, Algorithm: RRT, Path Quality: 54.03, Planning Efficiency: 0.0846 seconds
+Map ID: f3df6787, Algorithm: ACO, Path Quality: 58.64, Planning Efficiency: 13.2320 seconds
+Map ID: 905d1d28, Algorithm: A* Search, Path Quality: 29.40, Planning Efficiency: 0.0000 seconds
+Map ID: ddd39a20, Algorithm: A* Search, Path Quality: 25.60, Planning Efficiency: 0.0000 seconds
+Map ID: ddd39a20, Algorithm: RRT, Path Quality: 35.70, Planning Efficiency: 0.1656 seconds
+Map ID: ddd39a20, Algorithm: ACO, Path Quality: 31.82, Planning Efficiency: 6.7059 seconds
+Map ID: 18e26ff3, Algorithm: A* Search, Path Quality: 30.18, Planning Efficiency: 0.0000 seconds
+Map ID: 18e26ff3, Algorithm: ACO, Path Quality: 37.88, Planning Efficiency: 13.9150 seconds
+Map ID: 18e26ff3, Algorithm: RRT, Path Quality: 36.06, Planning Efficiency: 0.1248 seconds
+Map ID: 69e74b4c, Algorithm: A* Search, Path Quality: 36.47, Planning Efficiency: 0.0000 seconds
+Map ID: 69e74b4c, Algorithm: ACO, Path Quality: 53.51, Planning Efficiency: 11.3222 seconds
+Map ID: 98f47172, Algorithm: A* Search, Path Quality: 38.27, Planning Efficiency: 0.0160 seconds
+Map ID: 98f47172, Algorithm: RRT, Path Quality: 53.24, Planning Efficiency: 0.5004 seconds
+Map ID: 98f47172, Algorithm: ACO, Path Quality: 64.04, Planning Efficiency: 30.2959 seconds
+Map ID: 0637c3d7, Algorithm: ACO, Path Quality: 49.59, Planning Efficiency: 10.0794 seconds
+Map ID: fe7daaa4, Algorithm: A* Search, Path Quality: 35.22, Planning Efficiency: 0.0000 seconds
+Map ID: f20c88a8, Algorithm: A* Search, Path Quality: 27.98, Planning Efficiency: 0.0000 seconds
+Map ID: f20c88a8, Algorithm: A* Search, Path Quality: 27.98, Planning Efficiency: 0.0000 seconds
+Map ID: f20c88a8, Algorithm: ACO, Path Quality: 39.20, Planning Efficiency: 6.9748 seconds
+Map ID: 871a3cc6, Algorithm: A* Search, Path Quality: 28.26, Planning Efficiency: 0.0000 seconds
+Map ID: 871a3cc6, Algorithm: RRT, Path Quality: 36.94, Planning Efficiency: 1.4356 seconds
+Map ID: 871a3cc6, Algorithm: ACO, Path Quality: 41.09, Planning Efficiency: 7.3964 seconds
+Map ID: 9683ac4b, Algorithm: A* Search, Path Quality: 36.99, Planning Efficiency: 0.0000 seconds
+Map ID: 9683ac4b, Algorithm: RRT, Path Quality: 48.33, Planning Efficiency: 0.0943 seconds
+Map ID: 9683ac4b, Algorithm: ACO, Path Quality: 52.35, Planning Efficiency: 9.5493 seconds
+Map ID: 082b2434, Algorithm: A* Search, Path Quality: 32.73, Planning Efficiency: 0.0000 seconds
+Map ID: 082b2434, Algorithm: ACO, Path Quality: 52.78, Planning Efficiency: 8.6947 seconds
+Map ID: 082b2434, Algorithm: RRT, Path Quality: 40.84, Planning Efficiency: 10.0812 seconds
+Map ID: 2da87f94, Algorithm: A* Search, Path Quality: 94.04, Planning Efficiency: 0.0060 seconds
+Map ID: 2bf69646, Algorithm: A* Search, Path Quality: 56.64, Planning Efficiency: 0.0057 seconds
+Map ID: 2bf69646, Algorithm: RRT, Path Quality: 69.22, Planning Efficiency: 0.9119 seconds
+Map ID: bad0bc0d, Algorithm: A* Search, Path Quality: 32.24, Planning Efficiency: 0.0000 seconds
+Map ID: 1b56850d, Algorithm: A* Search, Path Quality: 67.69, Planning Efficiency: 0.0076 seconds
+Map ID: 1b56850d, Algorithm: ACO, Path Quality: 142.02, Planning Efficiency: 49.8366 seconds
+Map ID: 1b56850d, Algorithm: RRT, Path Quality: 88.36, Planning Efficiency: 3.4751 seconds
+Map ID: f2004344, Algorithm: A* Search, Path Quality: 33.73, Planning Efficiency: 0.0020 seconds
+Map ID: f2004344, Algorithm: A* Search, Path Quality: 33.73, Planning Efficiency: 0.0010 seconds
+Map ID: 44a43c3d, Algorithm: A* Search, Path Quality: 70.63, Planning Efficiency: 0.0054 seconds
+Map ID: 44a43c3d, Algorithm: RRT, Path Quality: 89.95, Planning Efficiency: 0.7845 seconds
+Map ID: 44a43c3d, Algorithm: ACO, Path Quality: 141.47, Planning Efficiency: 46.8183 seconds
+Map ID: b7c47fd1, Algorithm: A* Search, Path Quality: 74.64, Planning Efficiency: 0.0065 seconds
+Map ID: a3f10f80, Algorithm: RRT, Path Quality: 33.65, Planning Efficiency: 2.6473 seconds
+Map ID: 9f62755c, Algorithm: A* Search, Path Quality: 66.56, Planning Efficiency: 0.0050 seconds
+Map ID: 788b2cd5, Algorithm: A* Search, Path Quality: 36.44, Planning Efficiency: 0.0020 seconds
+Map ID: 41d97b3e, Algorithm: A* Search, Path Quality: 30.41, Planning Efficiency: 0.0011 seconds
+Map ID: 41d97b3e, Algorithm: ACO, Path Quality: 37.70, Planning Efficiency: 8.2864 seconds
+Map ID: 41d97b3e, Algorithm: RRT, Path Quality: 42.68, Planning Efficiency: 0.9569 seconds
+Map ID: d58c3440, Algorithm: A* Search, Path Quality: 23.49, Planning Efficiency: 0.0017 seconds
+Map ID: d58c3440, Algorithm: A* Search, Path Quality: 23.54, Planning Efficiency: 0.0010 seconds
